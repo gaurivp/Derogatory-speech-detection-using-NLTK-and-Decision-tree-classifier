@@ -1,1 +1,1 @@
-# Derogatory-speech-detection-using-NLTK-and-Decision-tree-classifier
+# Derogatory speech detection using NLTK and Decision tree classifier
